@@ -1,0 +1,1 @@
+teks1= "selamat berpusing ria"
